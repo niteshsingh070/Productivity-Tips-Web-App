@@ -25,7 +25,7 @@ A simple, clean web app that displays random productivity tips to help boost you
 ## 🚀 How to Use
 
 1. Open the [live app](https://niteshsingh070.github.io/Productivity-Tips-Web-App/)
-2. Click the **"Show Tip"** button
+2. Click the **"Get new Tips"** button
 3. Get a new productivity tip each time!
 
 ---
