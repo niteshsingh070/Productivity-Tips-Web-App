@@ -37,6 +37,3 @@ A simple, clean web app that displays random productivity tips to help boost you
 - JavaScript (Vanilla)
 
 ---
-
-## 📁 Folder Structure
-
